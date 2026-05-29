@@ -51,8 +51,10 @@ The dataset contains information about restaurants listed on Zomato, including:
 
 ## 1. Data Collection
 
+*DATA SET - ZOMATO( Kaggle)
+  (https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants?resource=download)
 * Imported Zomato restaurant dataset from CSV format.
-
+  
 ## 2. Data Understanding
 
 * Explored dataset structure and dimensions.
