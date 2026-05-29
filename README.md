@@ -129,6 +129,6 @@ The project demonstrates practical Python-based data analysis and visualization 
 
 Shweta Ranjan
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/shweta28ranjan-maker
 
-LinkedIn: linkedin.com/in/shweta-ranjan-3011681aa
+LinkedIn: https://www.linkedin.com/in/shweta-ranjan-3011681aa/
