@@ -98,6 +98,7 @@ Generated meaningful insights related to customer behavior and restaurant perfor
 * North Indian cuisine is the most popular cuisine category.
 * Restaurant density is highest in commercial urban locations.
 * Affordable and mid-range restaurants dominate the market.
+* Positive correlation between votes and ratings of Restaurant
 
 ---
 
